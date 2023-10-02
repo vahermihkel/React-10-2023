@@ -1,0 +1,34 @@
+.pilt {
+  width: 150px;
+  /* height: 150px; */
+}
+
+.pilt:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.pilt:active {
+  transform: rotate(180deg);
+}
+
+.nupp {
+  font-weight: bold; 
+  color: green;
+}
+
+.nupp:hover {
+  cursor: pointer;
+}
+
+.nupp:active {
+  border: 3px dotted blue;
+}
+
+img {
+
+}
+
+.App {
+
+}
